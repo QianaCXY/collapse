@@ -1,2 +1,0 @@
-# collapse
-a practice code
